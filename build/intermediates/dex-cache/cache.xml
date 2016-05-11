@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_e91010d4cf7fa02c02f25de2b66559087c865f00.jar" />
+    </item>
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_35eb4cd02cf365e3ea73a64520f4fdbd22b9b3cf.jar" />
+    </item>
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_3feaf338c842e2103096f579ac338453e6f59adb.jar" />
+    </item>
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b2f1a3c1c4ab387cd9ae39ead0a8cc99697d6771.jar" />
+    </item>
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_92f162c13249fff464278a72fc7403f64221555b.jar" />
+    </item>
+    <item
+        jar="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_fe38a5fbde4ce025783b311780ebc5665c030853.jar" />
+    </item>
+    <item
+        jar="/Users/tag/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ea1e79d8300209ec04c9d8c6882266ab342826b5.jar" />
+    </item>
+    <item
+        jar="/Users/tag/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.86.0/e49a43bcbbc3d5e5491dd2f4d3799a504b618e6b/realm-android-0.86.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e49a43bcbbc3d5e5491dd2f4d3799a504b618e6b">
+        <dex dex="/Users/tag/AndroidStudioProjects/RealmOfflineExample/app/build/intermediates/pre-dexed/debug/realm-android-0.86.0_b35740244cd011e657abb38a1353a569ff75fe83.jar" />
+    </item>
+
+</items>
